@@ -1,0 +1,10 @@
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\bin\Debug\JuliaSetC#.exe.config
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\bin\Debug\JuliaSetC#.exe
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\bin\Debug\JuliaSetC#.pdb
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\Debug\JuliaSetC#.csproj.AssemblyReference.cache
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\Debug\JuliaSetC_.Form1.resources
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\Debug\JuliaSetC_.Properties.Resources.resources
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\Debug\JuliaSetC#.csproj.GenerateResource.cache
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\Debug\JuliaSetC#.csproj.CoreCompileInputs.cache
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\Debug\JuliaSetC#.exe
+C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\Debug\JuliaSetC#.pdb

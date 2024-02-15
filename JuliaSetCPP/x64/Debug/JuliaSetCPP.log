@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  JuliaSetCPP.cpp
+  JuliaSetCPP.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+.NETFramework,Version=v4.7.2.AssemblyAttributes.obj : warning LNK4099: nie znaleziono pliku PDB "" z elementem ".NETFramework,Version=v4.7.2.AssemblyAttributes.obj" lub w pozycji ""; obiekt zostanie skonsolidowany bez informacji debugowania
+     Trwa tworzenie biblioteki C:\Users\kanal\source\repos\JuliaSetJA\x64\Debug\JuliaSetCPP.lib i obiektu C:\Users\kanal\source\repos\JuliaSetJA\x64\Debug\JuliaSetCPP.exp
+  JuliaSetCPP.vcxproj -> C:\Users\kanal\source\repos\JuliaSetJA\x64\Debug\JuliaSetCPP.dll
