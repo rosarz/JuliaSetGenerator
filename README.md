@@ -12,9 +12,9 @@ The source code of the project is well-commented (in Polish), making it easier t
 
 ## Example of use: 
 
-![image](https://github.com/rosarz/JuliaSetGenerator/assets/40793013/c3f2c2bb-5a96-46ff-a4c6-29169cedfe1b)
+![image](https://github.com/rosarz/JuliaSetGenerator/assets/40793013/26cde70f-27b5-40ca-acab-6b38ae45e4bb)
 
-![image](https://github.com/rosarz/JuliaSetGenerator/assets/40793013/d683811a-274d-4858-a104-d590ef65fc96)
+![image](https://github.com/rosarz/JuliaSetGenerator/assets/40793013/e93f95ec-c6be-46b2-b7e5-a0a6826f12b6)
 
 
 ## **What to remember:**
