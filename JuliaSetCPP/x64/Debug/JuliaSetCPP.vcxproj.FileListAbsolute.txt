@@ -1,1 +1,2 @@
 C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetCPP\x64\Debug\JuliaSetCPP.vcxproj.AssemblyReference.cache
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetCPP\x64\Debug\JuliaSetCPP.vcxproj.AssemblyReference.cache

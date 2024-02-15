@@ -11,3 +11,16 @@ C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\x64\Debug\JuliaSetC#.cspro
 C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\x64\Debug\JuliaSetC#.csproj.CopyComplete
 C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\x64\Debug\JuliaSetC#.exe
 C:\Users\kanal\source\repos\JuliaSetJA\JuliaSetC#\obj\x64\Debug\JuliaSetC#.pdb
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\bin\x64\Debug\JuliaSetC#.exe.config
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\bin\x64\Debug\JuliaSetC#.exe
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\bin\x64\Debug\JuliaSetC#.pdb
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\bin\x64\Debug\JuliaSetCPP.dll
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\bin\x64\Debug\JuliaSetCPP.pdb
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC#.csproj.AssemblyReference.cache
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC_.Form1.resources
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC_.Properties.Resources.resources
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC#.csproj.GenerateResource.cache
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC#.csproj.CoreCompileInputs.cache
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC#.csproj.CopyComplete
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC#.exe
+C:\Users\kanal\source\repos\JuliaSetGenerator\JuliaSetC#\obj\x64\Debug\JuliaSetC#.pdb
